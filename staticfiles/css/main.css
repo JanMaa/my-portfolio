@@ -34,3 +34,8 @@ ul{
 .p-body{
     text-align: justify;
 }
+
+#profile-pic{
+    border-width:2px!important;
+    border-color: blue;
+}
